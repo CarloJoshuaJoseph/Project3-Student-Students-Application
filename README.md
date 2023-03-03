@@ -1,1 +1,2 @@
 # Project3-Hunfry-kids-Application
+The Student Food App is to be a mobile application designed to help students discover and order food from local vendors on campus grounds. The app is developed to provide a seamless user experience with a variety of features including menu browsing, ordering, payment, and its own in app currency(Credits). The app also features a rewards system for both the users and the vendors to incentivize loyalty and frequent use.
