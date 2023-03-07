@@ -1,0 +1,75 @@
+PROJECT 3: T1 Individual Submission
+
+Project Members:
+Group Leader: Joshua Jacobs - 221144862
+Secretary: Ferdouz Allie - 214038033
+Designer: Jameelah Gallo - 221110933
+Designer: Carlo Joseph - 220621071
+Developer: Mohammed Gamildien - 221020209
+Developer: Lyle Esau – 221431942 
+
+Submission By: Joshua Jacobs - 221144862
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction:
+In order to increase customer loyalty and promote repeated business, many companies implement rewards and loyalty programs. These programs offer incentives to customers who make frequent purchases, such as discounts, free products or services, or exclusive access to special events or promotions.
+The rewards system for our food ordering app will function similarly. By offering rewards and incentives to users who make frequent purchases or refer their friends to the app, we hope to increase customer loyalty and drive more business to our partnering restaurants.
+In this report, we will outline the tasks required to develop and implement the rewards and loyalty program for our app, determining the rewards and incentives to offer, developing the necessary code and database structures, and implementing the program within the app.
+Role in group:
+As the group leader who is also developing the rewards and loyalty program, I am responsible for overseeing the overall progress of the project and ensuring that it is completed on time and within budget. However, I am not working on this project alone - I have delegated specific tasks to other members of the team in order to maximize efficiency and ensure that each aspect of the program is given the attention it deserves.
+I in particular, have been tasked with developing the rewards system. I am responsible for researching and designing a rewards program that will incentivize customers (both users and vendors) to continue using the app.
+Through effective delegation and collaboration, I am confident that our team will be able to deliver all desired features of out ‘student food app’ within the timelines stated in our team submission for T1.
+Tasks:
+Research Related Tasks:
+1.	Researching existing reward tracking and redemption systems to determine common practices and code structures used. (completed)
+2.	Reviewing and analysing existing code libraries and APIs that can be used in the development of the rewards system. (completed)
+3.	Identifying any potential security risks associated with tracking and storing user information, and designing security measures to protect user data. (Out of scope, Incomplete)
+4.	Testing different reward tracking and redemption methods to determine the most effective approach, such as using a point-based system or a tiered system based on user activity levels. (In-progress)
+
+
+
+
+Implementation and Developing Related Tasks:
+1.	Develop a list of potential rewards, such as discounts, free items, or exclusive access to promotions or events, and determine the requirements that users must meet to earn each reward. (in-progress, collaboration required)
+2.	Develop a system for tracking and awarding rewards, including determining the point values for different actions and purchases, and designing a database to store user information and reward balances. (incomplete)
+3.	Implement the rewards system into the user interface of the application, including designing a user dashboard to display reward balances and redemption options. (incomplete)
+4.	Test the rewards system to ensure that it accurately tracks user purchases and activities and awards rewards as expected. (incomplete)
+5.	Continuously monitor and evaluate the rewards system to identify areas for improvement, such as updating reward options or adjusting point values, and make necessary changes.(incomplete)
+Overall, developing a rewards system requires a combination of research, design, and coding skills, and a group leader responsible for the development of the system I will need to have a strong understanding of both the technical and strategic aspects of the project. It may also be beneficial to involve other team members with expertise in specific areas, such as database design or user interface design, to ensure that the rewards system is well-rounded and effective.
+Possible improvements for the group and yourself as the group leader include:
+1.	Improved communication: Encourage open communication and establish regular check-ins to ensure that everyone is on the same page.
+2.	Clearly defined roles: Ensure that each team member understands their specific responsibilities and the expectations for their role.
+3.	Increased collaboration: Encourage collaboration among team members to foster creativity and innovation. Consider using project management tools to facilitate collaboration and keep everyone on track.
+4.	Skills development: Encourage team members to develop new skills and take on new challenges to improve their overall effectiveness. LinkedIn would be the easiest tool to achieve this goal.
+5.	Process improvement: Regularly review processes and procedures to identify areas for improvement and implement changes to increase efficiency and effectiveness.
+6.	Personal development: As the group leader, focus on personal development to enhance your leadership skills, such as watching LinkedIn Leadership courses and speaking to others who have undertaken a leadership role.
+Overall, continual improvement is essential for both the group and individual team members to ensure that the project is successful and that everyone involved has the opportunity to grow and develop.
+
+Github project link: 
+LinkedIn Learning courses:
+
+
+
+
+
