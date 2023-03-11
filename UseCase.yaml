@@ -1,0 +1,24 @@
+                  +----------------+
+                  |   User Actor   |
+                  +----------------+
+                          |
+                          |
+    +-------------------+-------------------+
+    |                                       |
++---+---------------+            +-----------+------------+
+| Browse Restaurant |            |    Login to Account    |
++-------------------+            +------------------------+
+              |                                  |
+              |                                  |
++-------------+----------------+     +-----------+-----------+
+|  Search Restaurant Nearby    |     |  View Order History   |
++------------------------------+     +-----------------------+
+                                       |
+                                       |
+                      +----------------+----------------====+
+                      |                                     |
+              +-------+--------------+                +-----+-------------------+
+              |   Add Items to Cart  |                |     Edit Account Info   |
+              +----------------------+                +-------------------------+
+
+In this use case diagram, the User Actor interacts with the system through various use cases such as browsing nearby restaurants, searching for restaurants, adding items to the cart, viewing order history, logging into their account, and editing their account info.

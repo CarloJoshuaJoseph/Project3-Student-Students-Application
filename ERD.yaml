@@ -1,0 +1,26 @@
+                                         +------------------+
+                                         |      Student     |
+                                         +------------------+
+                                         | - student_id     |
+                                         | - name           |
+                                         | - email          |
+                                         | - password       |
+                                         +------------------+
+                                                   |
+                                                   |
+                                                   |
+                  +--------------------------------+-------------------------------+
+                  |                                |                               |
+       +-------------------------+    +---------------------------+       +--------------------------+
+       |         Meal            |    |         Restaurant        |       |        Order             |
+       +-------------------------+    +---------------------------+       +--------------------------+
+       | - meal_id               |    | - restaurant_id           |       | - order_id               |
+       | - name                  |    | - name                    |       | - student_id             |
+       | - price                 |    | - email                   |       | - restaurant_id          |
+       | - image                 |    | - password                |       | - meal_id                |
+       | - restaurant_id         |    +---------------------------+       | - quantity               |
+       +-------------------------+                                        | - total_price            |
+                                                                          | - order_time             |
+                                                                          +--------------------------+
+
+In this ERD, a Student can have many Orders, and an Order belongs to one Student. An Order is made up of multiple Meals, and a Meal can be in multiple Orders. A Restaurant can have many Meals, and a Meal belongs to one Restaurant.

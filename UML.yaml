@@ -1,0 +1,36 @@
++------------------------+                  +------------------------+
+|        Restaurant      |                  |          User          |
++------------------------+                  +------------------------+
+| - name: string         |                  | - name: string         |
+| - address: string      |                  | - email: string        |
+| - phone: string        |                  | - phone: string        |
+| - latitude: string     |                  | - password: string     |
+| - longitude: string    |                  | - payment_info: Payment|
+| - image: Image         |                  | - reward_points: int   |
+| - menu: RestaurantMenu |                  +------------------------+
+|                        |                            ^
+| + update_menu(): void  |                            |
+| + add_item(): void     |                            |
+| + remove_item(): void  |               +------------------------------+
++------------------------+               |         RestaurantMenu       |
+         ^                               +------------------------------+
+         |                               | - items: List<MenuItem>      |
++-----------------------+                +------------------------------+
+|         MenuItem      |                | + add_item(): void           |
++-----------------------+                | + remove_item(): void        |
+| - name: string        |                | + update_item(): void        |
+| - description: string |                | + get_items(): List<MenuItem>|
+| - price: double       |                +------------------------------+
+| - image: Image        |
++-----------------------+
+          ^
+          |
++--------------------------+
+|        Payment           |
++--------------------------+
+| - card_number: string    |
+| - cvv: string            |
+| - expiration_date: string|
++--------------------------+
+
+Note that this UML diagram only shows a simplified version of the classes and their relationships. The actual implementation may include additional classes, methods, and properties as needed.
